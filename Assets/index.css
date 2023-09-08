@@ -180,6 +180,10 @@
     transition: all 0.2s ease-in-out;
 }
 
+.flat {
+    box-shadow: none;
+}
+
 .small {
     width: 105px;
     height: 30px;
@@ -204,6 +208,7 @@
     border: 1px solid hsl(180, 100%, 25%);
 }
 
+.fool.flat:active,
 .fool-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(180, 100%, 30%);
@@ -222,6 +227,7 @@
     border: 1px solid hsl(275, 100%, 50%);
 }
 
+.magician.flat:active,
 .magician-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(275, 100%, 55%);
@@ -240,6 +246,7 @@
     border: 1px solid hsl(180, 100%, 15%);
 }
 
+.priestess.flat:active,
 .priestess-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(180, 100%, 10%);
@@ -258,6 +265,7 @@
     border: 1px solid hsl(200, 2%, 70%);
 }
 
+.empress.flat:active,
 .empress-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(200, 2%, 55%);
@@ -276,6 +284,7 @@
     border: 1px solid hsl(180, 100%, 40%);
 }
 
+.emperor.flat:active,
 .emperor-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(180, 100%, 40%);
@@ -294,6 +303,7 @@
     border: 1px solid hsl(45, 62%, 45%);
 }
 
+.hierophant.flat:active,
 .hierophant-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(45, 62%, 50%);
@@ -312,6 +322,7 @@
     border: 1px solid hsl(200, 2%, 90%);
 }
 
+.lovers.flat:active,
 .lovers-outline {
     background-color: hsl(200, 2%, 95%);
     color: hsl(275, 100%, 15%);
@@ -330,6 +341,7 @@
     border: 1px solid hsl(275, 100%, 20%);
 }
 
+.chariot.flat:active,
 .chariot-outline {
     background-color: hsl(275, 100%, 15%);
     color: hsl(200, 2%, 95%);
