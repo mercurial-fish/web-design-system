@@ -1,6 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Titillium+Web:ital,wght@0,400;0,700;1,400&display=swap');
 
 /*FONT FAMILIES AND STYLING */
+.h1 {
+    margin: auto;
+    font-size: 40px;
+    font-weight: 700;
+    color: hsl(180, 100%, 30%);
+}
+
+.h2 {
+    margin: auto;
+    font-size: 26px;
+    font-weight: 700;
+    color: hsl(275, 100%, 35%);
+}
+
+.p-text {
+    margin: auto;
+    font-size: 20px;
+    font-weight: 400;
+    color: hsl(200, 2%, 55%);
+}
 
 .bold {
     font-weight: 700;
