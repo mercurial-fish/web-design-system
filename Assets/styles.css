@@ -9,14 +9,14 @@ h1 {
     font-size: 40px;
     font-weight: 700;
     text-align: center;
-    color: hsl(180, 100%, 10%);
+    color: hsl(180, 100%, 15%);
     font-family: "Cinzel", serif;
 }
 
 h2 {
     font-size: 26px;
     font-weight: 700;
-    color: hsl(275, 100%, 15%);
+    color: hsl(300, 100%, 15%);
     font-family: "EB Garamond", serif;
 }
 
@@ -40,17 +40,17 @@ td {
 /*CONTAINERS */
 
 .container {
-    border: 2px solid hsl(45, 62%, 20%);
+    border: 2px solid hsl(60, 50%, 20%);
     border-radius: 10px;
-    background-color: whitesmoke;
+    background-color: white;
     padding: 10px;
     margin: 10px auto;
 }
 
 .twin-containers {
-    border: 2px solid hsl(45, 62%, 20%);
+    border: 2px solid hsl(60, 50%, 20%);
     border-radius: 10px;
-    background-color: whitesmoke;
+    background-color: white;
     padding: 5px;
     margin: 5px 5px;
     width: 75%;
