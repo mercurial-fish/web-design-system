@@ -2,7 +2,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', serif;
 }
 
 h1 {
@@ -10,14 +10,14 @@ h1 {
     font-weight: 700;
     text-align: center;
     color: hsl(180, 100%, 15%);
-    font-family: "Cinzel", serif;
+    font-family: "Titillium Web", sans-serif;
 }
 
 h2 {
     font-size: 26px;
     font-weight: 700;
     color: hsl(300, 100%, 15%);
-    font-family: "EB Garamond", serif;
+    font-family: "Cinzel", serif;
 }
 
 ul {
