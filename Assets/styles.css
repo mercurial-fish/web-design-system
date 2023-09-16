@@ -49,7 +49,8 @@ button {
 
 .color-container {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
     width: 100%;
 }
 
@@ -86,7 +87,12 @@ button {
 .colors {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    margin: 5px;
+    max-width: 350px;
+    max-height: 480px;
+    min-width: 175px;
+    flex-shrink: 1;
+    flex-grow: 1;
 }
 
 .colors div {
