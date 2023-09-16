@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Titillium+Web:ital,wght@0,400;0,700;1,400&display=swap');
 
+
+
 /*FONT FAMILIES AND STYLING */
 .h1 {
     margin: auto;
@@ -37,7 +39,7 @@
 }
 
 .eb-garamond {
-    font-family: "EB Garamond", serif;
+    font-family: "Fauna One", serif;
 }
 
 .cinzel {
@@ -313,7 +315,7 @@
 }
 
 .lovers,
-.lovers-outline:hover {
+.chariot-outline:hover {
     background-color: hsl(180, 5%, 95%);
     color: hsl(300, 100%, 15%);
     border: 1px solid hsl(180, 5%, 95%);
@@ -332,7 +334,7 @@
 }
 
 .chariot,
-.chariot-outline:hover {
+.lovers-outline:hover {
     background-color: hsl(300, 100%, 15%);
     color: hsl(180, 5%, 95%);
     border: 1px solid hsl(300, 100%, 15%);
